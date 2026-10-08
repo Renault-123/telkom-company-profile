@@ -1,7 +1,7 @@
 <?php 
 $pageTitle = 'Tambah Berita - Admin Praktikum'; 
 ?> 
-<!doctype html> 
+<!doctype html>
 <html lang="id"> 
 <head> 
     <meta charset="utf-8"> 
@@ -25,4 +25,4 @@ required></textarea></div>
     </div> 
 </section> 
 </body> 
-</html> 
+</html>
