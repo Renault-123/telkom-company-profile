@@ -6,9 +6,9 @@ require 'includes/header.php';
 <section class="section"> 
     <div class="container grid-2"> 
         <div> 
-            <span class="eyebrow">Kontak</span> 
-            <h1>Kirim pesan</h1> 
-            <p class="lead">Form ini mendemonstrasikan proses INSERT ke database dengan prepared statement.</p> 
+            <span class="eyebrow">Kontak Kami</span> 
+            <h1>Kirim pesan ke Admin</h1> 
+            <p class="lead">Form ini mendemonstrasikan proses INSERT ke database dengan prepared statement. Silakan isi data Anda di bawah ini dengan lengkap.</p> 
             <?php if ($success): ?> 
                 <div class="alert alert-success">Pesan berhasil disimpan ke database.</div> 
             <?php endif; ?> 
@@ -30,4 +30,4 @@ require 'includes/header.php';
         </form> 
     </div> 
 </section> 
-<?php require 'includes/footer.php'; ?> 
+<?php require 'includes/footer.php'; ?>
